@@ -1,2 +1,2 @@
 # Team-ossp-os
-OSSP Course
+OSSP Course OS-SKILL-S8
